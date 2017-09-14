@@ -1,0 +1,24 @@
+name: mdno
+layout_spectrum: 0.05129662396224011
+typography_spectrum: 0.9406827326162447
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.34490768759051127
+  lightness: 0.38974232181370083
+  saturation: 0.15976434689421548
+  rhythmicContrast: 0.8185740392461789
+title: ''
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
